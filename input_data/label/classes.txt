@@ -1,0 +1,7 @@
+bridge
+car
+H
+pillbox
+tank
+tent
+random
